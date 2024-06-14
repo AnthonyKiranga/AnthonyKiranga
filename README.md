@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnthonyKiranga
 - 👀 I’m interested in python on bare metal
 - 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on Embedded systems programming
+- 💞️ I’m looking to collaborate on Embedded systems projects
 - 📫 How to reach me kirangaantony@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...

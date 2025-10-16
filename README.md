@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnthonyKiranga
 - 👀 I’m interested in python on bare metal
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning Django and Altium
 - 💞️ I’m looking to collaborate on Embedded systems projects
 - 📫 How to reach me kirangaantony@gmail.com
 - 😄 Pronouns: ...

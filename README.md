@@ -5,6 +5,24 @@
 - 📫 How to reach me kirangaantony@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- ## 🛠️ Tech Stack
+
+<div align="center">
+
+### 🔧 Embedded & Hardware
+<p>
+  <img src="https://skillicons.dev/icons?i=c" height="60" alt="Embedded C" />
+  <img src="https://cdn.worldvectorlogo.com/logos/altium-designer.svg" height="60" alt="Altium Designer" />
+</p>
+
+### 💻 Software & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="60" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=django" height="60" alt="Django" />
+</p>
+
+</div>
+
 
 <!---
 AnthonyKiranga/AnthonyKiranga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

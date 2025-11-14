@@ -5,7 +5,7 @@
 - 📫 How to reach me kirangaantony@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack (Grid Layout)
 
 <table align="center">
   <tr>
@@ -13,31 +13,26 @@
       <img src="https://skillicons.dev/icons?i=c" height="60" alt="Embedded C" /><br/>
       <b>Embedded C</b>
     </td>
-
     <td align="center" width="150">
-      <img src="https://raw.githubusercontent.com/AnthonyKiranga/assets/main/altium.png" height="60" alt="Altium Designer" /><br/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Altium_Designer_Logo.png" height="60" alt="Altium Designer" /><br/>
       <b>Altium Designer</b>
     </td>
-
     <td align="center" width="150">
       <img src="https://raw.githubusercontent.com/espressif/esp-idf/master/docs/_static/espressif-logo.svg" height="60" alt="ESP-IDF" /><br/>
       <b>ESP-IDF</b>
     </td>
   </tr>
-
   <tr>
     <td align="center" width="150">
       <img src="https://skillicons.dev/icons?i=python" height="60" alt="Python" /><br/>
       <b>Python</b>
     </td>
-
     <td align="center" width="150">
       <img src="https://skillicons.dev/icons?i=django" height="60" alt="Django" /><br/>
       <b>Django</b>
     </td>
-
     <td align="center" width="150">
-      <!-- Add more later -->
+      <!-- Add a new tech here later -->
     </td>
   </tr>
 </table>

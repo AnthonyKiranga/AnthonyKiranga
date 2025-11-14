@@ -5,7 +5,7 @@
 - 📫 How to reach me kirangaantony@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- ## 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <table align="center">
   <tr>
@@ -14,7 +14,7 @@
       <b>Embedded C</b>
     </td>
     <td align="center" width="150">
-      <img src="https://cdn.worldvectorlogo.com/logos/altium-designer.svg" height="60" alt="Altium Designer" /><br/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Altium_Designer_Logo.png" height="60" alt="Altium Designer" /><br/>
       <b>Altium Designer</b>
     </td>
     <td align="center" width="150">
@@ -32,7 +32,7 @@
       <b>Django</b>
     </td>
     <td align="center" width="150">
-      <!-- empty or add more tech later -->
+      <!-- Add a new tech here later -->
     </td>
   </tr>
 </table>

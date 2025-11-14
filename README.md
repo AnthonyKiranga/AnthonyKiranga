@@ -6,6 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - ## 🛠️ Tech Stack
+- ## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -13,6 +14,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=c" height="60" alt="Embedded C" />
   <img src="https://cdn.worldvectorlogo.com/logos/altium-designer.svg" height="60" alt="Altium Designer" />
+  <img src="https://raw.githubusercontent.com/espressif/esp-idf/master/docs/_static/espressif-logo.svg" height="60" alt="ESP-IDF" />
 </p>
 
 ### 💻 Software & Frameworks
@@ -22,7 +24,6 @@
 </p>
 
 </div>
-
 
 <!---
 AnthonyKiranga/AnthonyKiranga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

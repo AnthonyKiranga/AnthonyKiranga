@@ -5,25 +5,37 @@
 - 📫 How to reach me kirangaantony@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- ## 🛠️ Tech Stack
-- ## 🛠️ Tech Stack
+- ## 🛠️ Tech Stack (Grid Layout)
 
-<div align="center">
-
-### 🔧 Embedded & Hardware
-<p>
-  <img src="https://skillicons.dev/icons?i=c" height="60" alt="Embedded C" />
-  <img src="https://cdn.worldvectorlogo.com/logos/altium-designer.svg" height="60" alt="Altium Designer" />
-  <img src="https://raw.githubusercontent.com/espressif/esp-idf/master/docs/_static/espressif-logo.svg" height="60" alt="ESP-IDF" />
-</p>
-
-### 💻 Software & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=python" height="60" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=django" height="60" alt="Django" />
-</p>
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=c" height="60" alt="Embedded C" /><br/>
+      <b>Embedded C</b>
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn.worldvectorlogo.com/logos/altium-designer.svg" height="60" alt="Altium Designer" /><br/>
+      <b>Altium Designer</b>
+    </td>
+    <td align="center" width="150">
+      <img src="https://raw.githubusercontent.com/espressif/esp-idf/master/docs/_static/espressif-logo.svg" height="60" alt="ESP-IDF" /><br/>
+      <b>ESP-IDF</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=python" height="60" alt="Python" /><br/>
+      <b>Python</b>
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=django" height="60" alt="Django" /><br/>
+      <b>Django</b>
+    </td>
+    <td align="center" width="150">
+      <!-- empty or add more tech later -->
+    </td>
+  </tr>
+</table>
 
 <!---
 AnthonyKiranga/AnthonyKiranga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

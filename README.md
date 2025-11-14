@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Django and Altium
 - 💞️ I’m looking to collaborate on Embedded systems projects
 - 📫 How to reach me kirangaantony@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: My first 'Hello World' was blinking an LED, and it was still the most satisfying thing I've ever coded.
 ## 🛠️ Tech Stack
 <table align="center">
   <tr>

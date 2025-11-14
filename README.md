@@ -5,7 +5,7 @@
 - 📫 How to reach me kirangaantony@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- ## 🛠️ Tech Stack (Grid Layout)
+- ## 🛠️ Tech Stack
 
 <table align="center">
   <tr>
